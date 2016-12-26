@@ -1,1 +1,6 @@
 File tutorial  per poter includere le attività su arduino
+ - Arduino 
+ - Sensori
+ - Attuatori
+ - Motori
+ - Luci
